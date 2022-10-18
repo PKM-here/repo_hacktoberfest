@@ -72,7 +72,7 @@ background: #808080;
 padding: 10px 22px;
 color: #000000;
 outline: none;
-// border: none;
+border: none;
 cursor: pointer;
 transition: all 0.2s ease-in-out;
 text-decoration: none;
